@@ -28,14 +28,17 @@ A project for the Federal University Dutse Health Centre focused on digitizing h
 
 *Repository link will be added when the project is published.*
 
-### Explore my repositories
+### Published repositories
 
-| Repository | Explore |
-| :--- | :--- |
-| **Farmbridge Plus** | [View repository →](https://github.com/Kamaltijjani/Farmbridge-plus) |
-| **GDP Dashboard** | [View repository →](https://github.com/Kamaltijjani/gdp-dashboard) |
-| **Meyorkman Market** | [View repository →](https://github.com/Kamaltijjani/meyorkman_market) |
-| **Myportal.fud.edu.ng** | [View repository →](https://github.com/Kamaltijjani/Myportal.fud.edu.ng) |
+| Repository | Status | Explore |
+| :--- | :--- | :--- |
+| **IT & Cybersecurity Portfolio** | Buildless portfolio source | [View repository →](https://github.com/Kamaltijjani/it-cybersecurity-portfolio) |
+| **FarmBridge+** | Static marketplace prototype | [View repository →](https://github.com/Kamaltijjani/Farmbridge-plus) |
+| **GDP Dashboard** | Streamlit data dashboard | [View repository →](https://github.com/Kamaltijjani/gdp-dashboard) |
+| **FUD Portal** | Unofficial static UI prototype | [View repository →](https://github.com/Kamaltijjani/Myportal.fud.edu.ng) |
+| **Meyorkman Market** | Source incomplete; not runnable | [View recovery notes →](https://github.com/Kamaltijjani/meyorkman_market) |
+
+Project READMEs describe setup, demo scope, and known limitations. Meyorkman Market is listed for transparency, but its application source still needs to be restored before it can be tested or presented as working software.
 
 ## Skills
 
